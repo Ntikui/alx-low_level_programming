@@ -2,16 +2,19 @@
 #include <time.h>
 #include <stdio.h>
 
-/* more headers goes there */
+/** more headers goes there 
+ * main - is positive or negative
+ * descriptions 0-positive_or_negative 
+ * betty style doc for function main goes there
+ */
 
-/* betty style doc for function main goes there */
 int main(void)
 {
 	int n;
 
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	/* your code goes there */
+	// your code goes there 
 
 if (n > 0)
 {
