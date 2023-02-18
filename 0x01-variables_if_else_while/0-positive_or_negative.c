@@ -10,8 +10,7 @@
  */
 
 int main(void)
-/* main - is positive or negative
-*/
+/* main - is positive or negative */
 {
 	int n;
 
