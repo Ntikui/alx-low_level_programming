@@ -2,10 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 
-/* more headers goes there 
- * main - is positive or negative
- * descriptions -positive_or_negative 
- * betty style doc for function main goes there
+/*more headers goes there 
+ *main - is positive or negative
+ *descriptions -positive_or_negative 
+ *betty style doc for function main goes there
  */
 
 int main(void)
