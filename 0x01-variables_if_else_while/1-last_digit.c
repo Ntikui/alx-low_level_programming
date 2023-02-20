@@ -2,11 +2,12 @@
 #include <time.h>
 #include <stdio.h>
 /*
- * Main:assign a random number to the variable n
- * Description- print the last digit of the number
- * betty style doc for function main goes there.
+ * Main - assign a random number to the variable n
+ * Description- print the last digit of number
+ * return (0)
  */
 int main(void)
+
 {
 int n;
 
