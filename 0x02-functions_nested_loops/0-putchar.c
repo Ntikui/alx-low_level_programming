@@ -1,24 +1,19 @@
 #include "main.h"
 
-
 /**
- * main - print out _putchar using printf
- *
- * Return: 0
+ * main - Entry point
+ * Return:0
  */
 
 int main(void)
 {
-
-        putchar('_');
-	putchar('p');
-	putchar('u');
-	putchar('t');
-	putchar('c');
-	putchar('h');
-	putchar('a');
-	putchar('r');
-	putchar('\n');
-
-	return (0);
+char c[9] = "_putchar";
+int i = 0;
+while (i < 8)
+{
+_putchar(c[i]);
+i++;
+}
+_putchar('\n');
+return (0);
 }
